@@ -1,0 +1,21 @@
+{
+  "name": "mringle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server/server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.1",
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0",
+    "yargs": "^9.0.1"
+  },
+  "devDependencies": {
+    "eslint": "^4.8.0"
+  }
+}
